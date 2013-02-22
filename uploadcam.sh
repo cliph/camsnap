@@ -1,6 +1,6 @@
 #!/bin/bash
 
-imgsnap="/Users/cflood/bin/ImageSnap-v0.2.5/imagesnap -q"
+imgsnap="~/bin/ImageSnap-v0.2.5/imagesnap -q"
 username=YOURUSER
 host=YOURHOST
 lpath=~/bin/archive
